@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+    @include('layouts.floating')
     @include('layouts.head')
     @include('layouts.finddomain')
     @include('layouts.prize')
