@@ -20,7 +20,7 @@
                         <p class="text-start">Nikmati kelola Dedicated Server sendiri dengan akses remote dari seluruh dunia tanpa bata</p>
                         <p class="card-text mb-0 text-start">Mulai dari</p>
                         <p class="card-text h5 text-start mb-4">Rp.100.000</p>
-                        <a href="#" class="btn bg-gradient-primary text-white btn-sm" href="#findDomain"
+                        <a href="#" class="btn bg-gradient-primary text-white btn-sm" href="#"
                             role="button" style="background-color: #FF731D">Order Sekarang</a>
                     </div>
                 </div><!-- End -->
@@ -32,7 +32,7 @@
                         <p class="text-start">Nikmati kelola Dedicated Server sendiri dengan akses remote dari seluruh dunia tanpa bata</p>
                         <p class="card-text mb-0 text-start">Mulai dari</p>
                         <p class="card-text h5 text-start mb-4">Rp.100.000</p>
-                        <a href="#" class="btn bg-gradient-primary text-white btn-sm" href="#findDomain"
+                        <a href="#" class="btn bg-gradient-primary text-white btn-sm" href="#"
                             role="button" style="background-color: #FF731D">Order Sekarang</a>
                     </div>
                 </div><!-- End -->
@@ -44,7 +44,7 @@
                         <p class="text-start">Nikmati kelola Dedicated Server sendiri dengan akses remote dari seluruh dunia tanpa bata</p>
                         <p class="card-text mb-0 text-start">Mulai dari</p>
                         <p class="card-text h5 text-start mb-4">Rp.100.000</p>
-                        <a href="#" class="btn bg-gradient-primary text-white btn-sm" href="#findDomain"
+                        <a href="#" class="btn bg-gradient-primary text-white btn-sm" href="#"
                             role="button" style="background-color: #FF731D">Order Sekarang</a>
                     </div>
                 </div><!-- End -->
@@ -56,7 +56,7 @@
                         <p class="text-start">Nikmati kelola Dedicated Server sendiri dengan akses remote dari seluruh dunia tanpa bata</p>
                         <p class="card-text mb-0 text-start">Mulai dari</p>
                         <p class="card-text h5 text-start mb-4">Rp.100.000</p>
-                        <a href="#" class="btn bg-gradient-primary text-white btn-sm" href="#findDomain"
+                        <a href="#" class="btn bg-gradient-primary text-white btn-sm" href="#"
                             role="button" style="background-color: #FF731D">Order Sekarang</a>
                     </div>
                 </div><!-- End -->

@@ -1,4 +1,4 @@
-<section id="findDomain">
+<section id="">
     <div class="container d-flex justify-content-center rounded my-5   " style="background-color:#1746A2">
 
         <div class="col-8   align-items-center py-5">
