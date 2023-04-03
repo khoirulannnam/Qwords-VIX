@@ -75,9 +75,18 @@
                                     Cloud Hosting
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Value Hosting</strong></a>
+                                    </li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Wordpress
+                                            Hosting</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Unlimited
+                                            Hosting</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>High Performance
+                                            Busines</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>High Performance
+                                            Enterpise</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Private Label
+                                            cPanel Reseller</strong></a></li>
                                 </ul>
                             </div>
                         </li>
@@ -89,9 +98,14 @@
                                     Server
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>
+                                        Cloud VPS</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>
+                                        Server Sekolah</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>
+                                        Dedicated Server</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>
+                                        Fleksibel VPS</strong></a></li>
                                 </ul>
                             </div>
                         </li>
@@ -103,23 +117,26 @@
                                     Internet Access
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>BroadBand Home</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>BroadBand Wireless</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>BroadBand Business</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Check Coverage Area</strong></a></li>
                                 </ul>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
                             <div class="dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                                    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
-                                    style="color: #ffffff">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                                    role="button" data-bs-toggle="dropdown" aria-haspopup="true"
+                                    aria-expanded="false" style="color: #ffffff">
                                     Domain
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Daftar Domain</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Sewa Domain</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Domain Premium</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Jual Beli Premium</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Domain Backorder</strong></a></li>
                                 </ul>
                             </div>
                         </li>
@@ -131,9 +148,10 @@
                                     Email Suite
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Titan Email</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Google Workspace</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Mailtogo</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Microsoft 365</strong></a></li>
                                 </ul>
                             </div>
                         </li>
@@ -145,9 +163,12 @@
                                     Service
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>SSL</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Licenses</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Data Protection</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Web Design</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Offlane Backup</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Hosting Insurance</strong></a></li>
                                 </ul>
                             </div>
                         </li>
@@ -159,9 +180,9 @@
                                     Customer Care
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Pembayaran</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>FAQ</strong></a></li>
+                                    <li><a class="dropdown-item" href="#" style="color: #5F9DF7"><strong>Reward</strong></a></li>
                                 </ul>
                             </div>
                         </li>
